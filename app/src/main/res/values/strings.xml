@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">debugging</string>
+    <string name = "cost_of_service_hint">Cost Of Service</string>
+    <string name="service_question">How was the service ?</string>
+    <string name="amazing">Amazing (20%)</string>
+    <string name="good">Good (18%)</string>
+    <string name="average">Average (15%)</string>
+    <string name="round_off">Round off tip</string>
+    <string name="calculate">Calculate Tip</string>
+    <string name="result_text">Tip amount : %s</string>
+</resources>
